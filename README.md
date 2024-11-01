@@ -6,10 +6,10 @@ Para poder crear las carpetas primeramente se ejecuta power shell en modo admini
 1. Crear una carpeta: 
        mkdir Ucatec
   	   cd Ucatec
-   Crear una subcarpeta subdirectorio llamada ad-server:
+2. Crear una subcarpeta subdirectorio llamada ad-server:
        mkdir ad-server
   	   cd ad-server
-   Crear un subcarpeta subdirectorio llamada ExamenFinal-Pregunta2
+3. Crear un subcarpeta subdirectorio llamada ExamenFinal-Pregunta2
        mkdir ExamenFinal-Pregunta2
        cd ExamenFinal-Pregunta2
 		
@@ -17,8 +17,9 @@ Para poder crear las carpetas primeramente se ejecuta power shell en modo admini
 Para clonar el repositorio poner el siguiente comando:
 
 		git clone https://github.com/Celina149/ExamenFinal-Pregunta2.git
+		
 ## Levantar Docker-Compose
-Para levantar al docker compose Se ejecuta el siguiente comando:
+Para levantar al docker compose se ejecuta el siguiente comando:
 		
 		docker-compose up -d
 

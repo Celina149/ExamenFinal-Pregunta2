@@ -1,0 +1,18 @@
+#version: '3.8'
+
+services:
+  db:
+    image: mysql:5.7
+    container_name: mysql_container
+    environment:
+      MYSQL_ROOT_PASSWORD: yourpassword
+      MYSQL_DATABASE: yourdatabase
+    ports:
+      - "3306:3306"
+
+  phpmyadmin:
+    image: phpmyadmin
+    ports:
+      - "8080:80"
+    environment:
+      PMA_HOST: db

@@ -1,8 +1,9 @@
-# ORQUESTANDO MYSQL Y PHPMYADMIN CON DOCKER-COMPOSE
-En este documento se detallara todo lo que se tiene que hacer para que se ejecute el docker-compose
+### ORQUESTANDO MYSQL Y PHPMYADMIN CON DOCKER-COMPOSE
+En este documento se detallara todo lo que se tiene que hacer para que se ejecute el docker-compose.
+
 ## Creacion de carpetas
 Para poder crear las carpetas primeramente se ejecuta power shell en modo administrador.
-1. **Crear una carpeta: 
+1. Crear una carpeta: 
     	mkdir Ucatec
   	  cd Ucatec
    Crear una subcarpeta subdirectorio llamada ad-server:

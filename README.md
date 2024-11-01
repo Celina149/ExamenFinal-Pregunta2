@@ -1,5 +1,14 @@
 ### ORQUESTANDO MYSQL Y PHPMYADMIN CON DOCKER-COMPOSE
+
+---
+
 En este documento se detallara todo lo que se tiene que hacer para que se ejecute el docker-compose.
+### Herramientas Necesarias:
+- Git
+- Docker
+- Docker-compose
+  
+Para empezar a realizar la Orquestacion de Nginx se debe tener estas 3 herramientas ejecutandose.
 
 ## Creacion de carpetas
 Para poder crear las carpetas primeramente se ejecuta power shell en modo administrador.

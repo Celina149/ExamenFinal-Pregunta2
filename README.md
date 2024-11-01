@@ -8,7 +8,7 @@ En este documento se detallara todo lo que se tiene que hacer para que se ejecut
 - Docker
 - Docker-compose
   
-Para empezar a realizar la Orquestacion de Nginx se debe tener estas 3 herramientas ejecutandose.
+Para empezar a realizar la Orquestacion de Mysql y phpMyadmin se debe tener estas 3 herramientas ejecutandose.
 
 ## Creacion de carpetas
 Para poder crear las carpetas primeramente se ejecuta power shell en modo administrador.

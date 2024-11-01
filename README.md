@@ -5,19 +5,22 @@ En este documento se detallara todo lo que se tiene que hacer para que se ejecut
 Para poder crear las carpetas primeramente se ejecuta power shell en modo administrador.
 1. Crear una carpeta: 
 
-      mkdir Ucatec
-      cd Ucatec
-
+  ```bash
+   mkdir Ucatec
+   cd Ucatec
+  ```
 2. Crear una subcarpeta subdirectorio llamada ad-server:
    
-      mkdir ad-server
-      cd ad-server
+   ```bash
+   mkdir ad-server
+   cd ad-server
+   ```
+3. Crear un subcarpeta subdirectorio llamada ExamenFinal-Pregunta2
 
-4. Crear un subcarpeta subdirectorio llamada ExamenFinal-Pregunta2
-   
-      mkdir ExamenFinal-Pregunta2
-      cd ExamenFinal-Pregunta2
-		
+    ```bash
+   mkdir ExamenFinal-Pregunta2
+   cd ExamenFinal-Pregunta2
+   ```
 ## Clonar el repositorio
 Para clonar el repositorio poner el siguiente comando:
 

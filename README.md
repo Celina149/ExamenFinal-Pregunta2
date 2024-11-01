@@ -5,10 +5,10 @@ En este documento se detallara todo lo que se tiene que hacer para que se ejecut
 Para poder crear las carpetas primeramente se ejecuta power shell en modo administrador.
 1. Crear una carpeta: 
 
-  ```bash
+   ```bash
    mkdir Ucatec
    cd Ucatec
-  ```
+   ```
 2. Crear una subcarpeta subdirectorio llamada ad-server:
    
    ```bash
